@@ -98,13 +98,31 @@ const toExport = (howMuch) => {
         // Choose pivot as the middle element
         return Math.floor((left + right) / 2);
     };
-    
+
+
     const generateRandomArray = size => {
-        const arr = [];
-        for (let i = 0; i < size; i++) {
-            arr.push(Math.floor(Math.random() * size));
+        let array = [];
+        let num = 1;
+        let direction = 'right';
+        
+        while (array.length < size) {
+            if (direction === 'right') {
+                for (let i = 1; i <= num; i++) {
+                    array.push(i);
+                    if (array.length === size) break;
+                }
+                direction = 'left';
+            } else {
+                for (let i = num; i >= 1; i--) {
+                    array.push(i);
+                    if (array.length === size) break;
+                }
+                direction = 'right';
+            }
+            num++;
         }
-        return arr;
+    
+        return array;
     };
     
     const measureSortingTime = (arrSize, numTrials) => {
