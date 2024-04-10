@@ -1,4 +1,4 @@
-const toLib = require("./SS_VKSztaltna");
+const toLib = require("./quicksort.js/quickSort.js");
 
 A = [
   40000, 80000, 120000, 160000, 200000, 240000, 280000, 320000, 360000, 400000,
