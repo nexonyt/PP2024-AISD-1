@@ -90,13 +90,13 @@ const toExport = (howMuch) => {
     
     const choosePivot = (arr, left, right) => {
         // Choose pivot randomly
-        // return Math.floor(Math.random() * (right - left + 1)) + left;
+        //return Math.floor(Math.random() * (right - left + 1)) + left;
         
         // Choose pivot as the rightmost element
-        // return right;
+        return right;
         
         // Choose pivot as the middle element
-        return Math.floor((left + right) / 2);
+        //return Math.floor((left + right) / 2);
     };
 
 

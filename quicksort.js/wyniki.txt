@@ -1,0 +1,362 @@
+------------------------------------------------------------------MIDDLE--------------------------------------------------------------
+Results:
+Average sorting time for random pivot: 0 miliseconds
+Average sorting time for right pivot: 0 miliseconds 
+Average sorting time for middle pivot: 0 miliseconds
+Results:
+Average sorting time for random pivot: 33 miliseconds
+Average sorting time for right pivot: 24 miliseconds 
+Average sorting time for middle pivot: 20 miliseconds
+Results:
+Average sorting time for random pivot: 68 miliseconds
+Average sorting time for right pivot: 54 miliseconds 
+Average sorting time for middle pivot: 55 miliseconds
+Results:
+Average sorting time for random pivot: 93 miliseconds
+Average sorting time for right pivot: 89 miliseconds 
+Average sorting time for middle pivot: 90 miliseconds
+Results:
+Average sorting time for random pivot: 131 miliseconds
+Average sorting time for right pivot: 133 miliseconds 
+Average sorting time for middle pivot: 131 miliseconds
+Results:
+Average sorting time for random pivot: 183 miliseconds
+Average sorting time for right pivot: 183 miliseconds
+Average sorting time for middle pivot: 182 miliseconds
+Results:
+Average sorting time for random pivot: 232 miliseconds
+Average sorting time for right pivot: 226 miliseconds
+Average sorting time for middle pivot: 230 miliseconds
+Results:
+Average sorting time for random pivot: 289 miliseconds
+Average sorting time for right pivot: 284 miliseconds
+Average sorting time for middle pivot: 285 miliseconds
+Results:
+Average sorting time for random pivot: 346 miliseconds
+Average sorting time for right pivot: 340 miliseconds
+Average sorting time for middle pivot: 338 miliseconds
+Results:
+Average sorting time for random pivot: 407 miliseconds
+Average sorting time for right pivot: 398 miliseconds
+Average sorting time for middle pivot: 402 miliseconds
+Results:
+Average sorting time for random pivot: 471 miliseconds
+Average sorting time for right pivot: 470 miliseconds
+Average sorting time for middle pivot: 476 miliseconds
+Results:
+Average sorting time for right pivot: 538 miliseconds
+Average sorting time for middle pivot: 537 miliseconds
+Results:
+Average sorting time for random pivot: 604 miliseconds
+Average sorting time for right pivot: 606 miliseconds
+Average sorting time for middle pivot: 603 miliseconds
+Results:
+Average sorting time for random pivot: 693 miliseconds
+Average sorting time for right pivot: 689 miliseconds
+Average sorting time for middle pivot: 687 miliseconds
+Results:
+Average sorting time for random pivot: 772 miliseconds
+Average sorting time for right pivot: 748 miliseconds
+Average sorting time for middle pivot: 747 miliseconds
+Results:
+Average sorting time for random pivot: 825 miliseconds
+Average sorting time for right pivot: 829 miliseconds
+Average sorting time for middle pivot: 823 miliseconds
+
+
+
+-----------------------------------------------------RIGHT----------------------------------------------------------------------
+
+
+
+Results:
+Average sorting time for random pivot: 0 miliseconds
+Average sorting time for right pivot: 0 miliseconds
+Average sorting time for middle pivot: 0 miliseconds
+Results:
+Average sorting time for random pivot: 49 miliseconds
+Average sorting time for right pivot: 30 miliseconds
+Average sorting time for middle pivot: 29 miliseconds
+Results:
+Average sorting time for random pivot: 113 miliseconds
+Average sorting time for right pivot: 99 miliseconds
+Average sorting time for middle pivot: 102 miliseconds
+Results:
+Average sorting time for random pivot: 219 miliseconds
+Average sorting time for right pivot: 215 miliseconds
+Average sorting time for middle pivot: 214 miliseconds
+Results:
+Average sorting time for random pivot: 458 miliseconds
+Average sorting time for right pivot: 453 miliseconds
+Average sorting time for middle pivot: 453 miliseconds
+Results:
+Average sorting time for random pivot: 240 miliseconds
+Average sorting time for right pivot: 220 miliseconds
+Average sorting time for middle pivot: 219 miliseconds
+Results:
+Average sorting time for random pivot: 408 miliseconds
+Average sorting time for right pivot: 404 miliseconds
+Average sorting time for middle pivot: 408 miliseconds
+Results:
+Average sorting time for random pivot: 330 miliseconds
+Average sorting time for right pivot: 322 miliseconds
+Average sorting time for middle pivot: 324 miliseconds
+Results:
+Average sorting time for random pivot: 736 miliseconds
+Average sorting time for right pivot: 731 miliseconds
+Average sorting time for middle pivot: 724 miliseconds
+Results:
+Average sorting time for random pivot: 430 miliseconds
+Average sorting time for right pivot: 425 miliseconds
+Average sorting time for middle pivot: 422 miliseconds
+Results:
+Average sorting time for random pivot: 630 miliseconds
+Average sorting time for right pivot: 620 miliseconds
+Average sorting time for middle pivot: 619 miliseconds
+Results:
+Average sorting time for right pivot: 976 miliseconds
+Average sorting time for middle pivot: 976 miliseconds
+Results:
+Average sorting time for random pivot: 1946 miliseconds
+Average sorting time for right pivot: 1948 miliseconds
+Average sorting time for middle pivot: 1948 miliseconds
+Results:
+Average sorting time for random pivot: 2164 miliseconds
+Average sorting time for right pivot: 2165 miliseconds
+Average sorting time for middle pivot: 2162 miliseconds
+Results:
+Average sorting time for random pivot: 1140 miliseconds
+Average sorting time for right pivot: 1131 miliseconds
+Average sorting time for middle pivot: 1133 miliseconds
+Results:
+Average sorting time for random pivot: 3967 miliseconds
+Average sorting time for right pivot: 3959 miliseconds
+Average sorting time for middle pivot: 4078 miliseconds
+
+
+
+
+
+----------------------------------------------------------------RANDOM------------------------------------------------------------------
+
+
+
+
+
+Results:
+Average sorting time for random pivot: 0 miliseconds
+Average sorting time for right pivot: 0 miliseconds
+Average sorting time for middle pivot: 0 miliseconds
+Results:
+Average sorting time for random pivot: 35 miliseconds
+Average sorting time for right pivot: 25 miliseconds
+Average sorting time for middle pivot: 25 miliseconds
+Results:
+Average sorting time for random pivot: 72 miliseconds
+Average sorting time for right pivot: 57 miliseconds
+Average sorting time for middle pivot: 59 miliseconds
+Results:
+Average sorting time for random pivot: 95 miliseconds
+Average sorting time for right pivot: 95 miliseconds
+Average sorting time for middle pivot: 93 miliseconds
+Results:
+Average sorting time for random pivot: 140 miliseconds
+Average sorting time for right pivot: 139 miliseconds
+Average sorting time for middle pivot: 136 miliseconds
+Results:
+Average sorting time for random pivot: 189 miliseconds
+Average sorting time for right pivot: 186 miliseconds
+Average sorting time for middle pivot: 183 miliseconds
+Results:
+Average sorting time for random pivot: 241 miliseconds
+Average sorting time for right pivot: 238 miliseconds
+Average sorting time for middle pivot: 240 miliseconds
+Results:
+Average sorting time for random pivot: 294 miliseconds
+Average sorting time for right pivot: 290 miliseconds
+Average sorting time for middle pivot: 291 miliseconds
+Results:
+Average sorting time for random pivot: 353 miliseconds
+Average sorting time for right pivot: 346 miliseconds
+Average sorting time for middle pivot: 346 miliseconds
+Results:
+Average sorting time for random pivot: 414 miliseconds
+Average sorting time for right pivot: 410 miliseconds
+Average sorting time for middle pivot: 410 miliseconds
+Results:
+Average sorting time for random pivot: 484 miliseconds
+Average sorting time for right pivot: 480 miliseconds
+Average sorting time for middle pivot: 485 miliseconds
+Results:
+Average sorting time for random pivot: 545 miliseconds
+Average sorting time for right pivot: 559 miliseconds
+Average sorting time for middle pivot: 543 miliseconds
+Results:
+Average sorting time for random pivot: 676 miliseconds
+Average sorting time for right pivot: 627 miliseconds
+Average sorting time for middle pivot: 650 miliseconds
+Results:
+Average sorting time for random pivot: 687 miliseconds
+Average sorting time for right pivot: 677 miliseconds
+Average sorting time for middle pivot: 686 miliseconds
+Results:
+Average sorting time for random pivot: 784 miliseconds
+Average sorting time for right pivot: 797 miliseconds
+Average sorting time for middle pivot: 787 miliseconds
+Results:
+Average sorting time for random pivot: 835 miliseconds
+Average sorting time for right pivot: 836 miliseconds
+Average sorting time for middle pivot: 855 miliseconds
+
+
+
+
+
+
+
+
+
+
+
+
+Results:
+Average sorting time for random pivot: 0 miliseconds
+Average sorting time for right pivot: 0 miliseconds
+Average sorting time for middle pivot: 0 miliseconds
+Results:
+Average sorting time for random pivot: 36 miliseconds
+Average sorting time for right pivot: 24 miliseconds
+Average sorting time for middle pivot: 23 miliseconds
+Results:
+Average sorting time for random pivot: 69 miliseconds
+Average sorting time for right pivot: 57 miliseconds
+Average sorting time for middle pivot: 59 miliseconds
+Results:
+Average sorting time for random pivot: 97 miliseconds
+Average sorting time for right pivot: 95 miliseconds
+Average sorting time for middle pivot: 93 miliseconds
+Results:
+Average sorting time for random pivot: 139 miliseconds
+Average sorting time for right pivot: 137 miliseconds
+Average sorting time for middle pivot: 138 miliseconds
+Results:
+Average sorting time for random pivot: 185 miliseconds
+Average sorting time for right pivot: 185 miliseconds
+Average sorting time for middle pivot: 184 miliseconds
+Results:
+Average sorting time for random pivot: 237 miliseconds
+Average sorting time for right pivot: 237 miliseconds
+Average sorting time for middle pivot: 238 miliseconds
+Results:
+Average sorting time for random pivot: 297 miliseconds
+Average sorting time for right pivot: 290 miliseconds
+Average sorting time for middle pivot: 290 miliseconds
+Results:
+Average sorting time for random pivot: 350 miliseconds
+Average sorting time for right pivot: 344 miliseconds
+Average sorting time for middle pivot: 345 miliseconds
+Results:
+Average sorting time for random pivot: 410 miliseconds
+Average sorting time for right pivot: 410 miliseconds
+Average sorting time for middle pivot: 410 miliseconds
+Results:
+Average sorting time for random pivot: 477 miliseconds
+Average sorting time for right pivot: 479 miliseconds
+Average sorting time for middle pivot: 470 miliseconds
+Results:
+Average sorting time for right pivot: 537 miliseconds
+Average sorting time for middle pivot: 535 miliseconds
+Results:
+Average sorting time for random pivot: 611 miliseconds
+Average sorting time for right pivot: 617 miliseconds
+Average sorting time for middle pivot: 605 miliseconds
+Results:
+Average sorting time for random pivot: 679 miliseconds
+Average sorting time for right pivot: 674 miliseconds
+Average sorting time for middle pivot: 681 miliseconds
+Results:
+Average sorting time for random pivot: 761 miliseconds
+Average sorting time for right pivot: 751 miliseconds
+Average sorting time for middle pivot: 750 miliseconds
+Results:
+Average sorting time for random pivot: 837 miliseconds
+Average sorting time for right pivot: 839 miliseconds
+Average sorting time for middle pivot: 833 miliseconds
+
+
+
+
+
+
+
+
+
+
+
+
+
+Results:
+Average sorting time for random pivot: 0 miliseconds
+Average sorting time for right pivot: 0 miliseconds
+Average sorting time for middle pivot: 0 miliseconds
+Results:
+Average sorting time for random pivot: 37 miliseconds
+Average sorting time for right pivot: 22 miliseconds
+Average sorting time for middle pivot: 24 miliseconds
+Results:
+Average sorting time for random pivot: 71 miliseconds
+Average sorting time for right pivot: 57 miliseconds
+Average sorting time for middle pivot: 57 miliseconds
+Results:
+Average sorting time for random pivot: 95 miliseconds
+Average sorting time for right pivot: 95 miliseconds
+Average sorting time for middle pivot: 94 miliseconds
+Results:
+Average sorting time for random pivot: 138 miliseconds
+Average sorting time for right pivot: 135 miliseconds
+Average sorting time for middle pivot: 136 miliseconds
+Results:
+Average sorting time for random pivot: 185 miliseconds
+Average sorting time for right pivot: 184 miliseconds
+Average sorting time for middle pivot: 183 miliseconds
+Results:
+Average sorting time for random pivot: 239 miliseconds
+Average sorting time for right pivot: 238 miliseconds
+Average sorting time for middle pivot: 239 miliseconds
+Results:
+Average sorting time for random pivot: 295 miliseconds
+Average sorting time for right pivot: 290 miliseconds
+Average sorting time for middle pivot: 290 miliseconds
+Results:
+Average sorting time for random pivot: 351 miliseconds
+Average sorting time for right pivot: 346 miliseconds
+Average sorting time for middle pivot: 346 miliseconds
+Results:
+Average sorting time for random pivot: 413 miliseconds
+Average sorting time for right pivot: 408 miliseconds
+Average sorting time for middle pivot: 410 miliseconds
+Results:
+Average sorting time for random pivot: 472 miliseconds
+Average sorting time for right pivot: 474 miliseconds
+Average sorting time for middle pivot: 473 miliseconds
+Results:
+Average sorting time for random pivot: 545 miliseconds
+Average sorting time for right pivot: 540 miliseconds
+Average sorting time for middle pivot: 537 miliseconds
+Results:
+Average sorting time for random pivot: 607 miliseconds
+Average sorting time for right pivot: 610 miliseconds
+Average sorting time for middle pivot: 610 miliseconds
+Results:
+Average sorting time for random pivot: 678 miliseconds
+Average sorting time for right pivot: 679 miliseconds
+Average sorting time for middle pivot: 681 miliseconds
+Results:
+Average sorting time for random pivot: 760 miliseconds
+Average sorting time for right pivot: 752 miliseconds
+Average sorting time for middle pivot: 752 miliseconds
+Results:
+Average sorting time for random pivot: 827 miliseconds
+Average sorting time for right pivot: 832 miliseconds
+Average sorting time for middle pivot: 824 miliseconds
+PS C:\Users\pioko\Documents\GitHub\PP2024-AISD-1> 
